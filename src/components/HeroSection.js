@@ -40,7 +40,7 @@ export default function HeroSection() {
               className="inline h-164"
             />
         }
-        <p className="font-courier text-6xl mb-8">WOOF TOKEN launching on Pump.Fun</p>
+        <p className="font-courier text-6xl mb-8">WOOF TOKEN launching on Moonshot🌙🟢</p>
         <a href="#about" className="font-courier text-white uppercase underline text-base px-6 py-3 transition duration-300">
           Learn More
         </a>
