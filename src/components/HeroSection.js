@@ -41,7 +41,7 @@ export default function HeroSection() {
             />
         }
         <p className="font-courier text-6xl mb-8">WOOF TOKEN launching on Moonshot🌙🟢</p>
-        <a href="https://dexscreener.com/solana/3qkee8t8rqingrak8mvkqdpc8inufr1ubhcje3ecvcw9" target="_blank">
+        <a href="https://dexscreener.com/moonshot" target="_blank">
   <button type="button" class="text-gray-900 bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Buy on MoonShot🌙🟢</button>
 </a>
 
